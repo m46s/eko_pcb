@@ -15,7 +15,7 @@ Opción 1 - Auto-instalar software (Windows)
 
 Opción 2 - Bajar máquina virtual
 1. Tener instalado vmware
-2. Bajar vm (26 GB) https://drive.google.com/file/d/190TI1u79dGsBHvrvIBWMBU5ABBD3boCS/view?usp=sharing
+2. Bajar vm (26 GB) https://www.dropbox.com/s/dhme70xlo4dvlmg/eko_pcb_backup.zip?dl=1
 3. Bajar archivos de este repositorio (si quieren seguir las dapositivas) https://github.com/m46s/eko_pcb
 
 *** If your VM illustrator is not working, follow these instructions ***
